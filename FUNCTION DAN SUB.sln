@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FUNCTION DAN SUB", "FUNCTION DAN SUB\FUNCTION DAN SUB.vbproj", "{427EF060-BF53-42CC-B280-FC2F55084ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{427EF060-BF53-42CC-B280-FC2F55084ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427EF060-BF53-42CC-B280-FC2F55084ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427EF060-BF53-42CC-B280-FC2F55084ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427EF060-BF53-42CC-B280-FC2F55084ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F8C700-2864-44BF-B7E8-3197B6EACB3C}
+	EndGlobalSection
+EndGlobal
